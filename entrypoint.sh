@@ -1,7 +1,7 @@
 #!/bin/sh
 
-UUID=36c7aff8-081d-45f7-8051-4d62e2d96696
-WSPATH=/gerner
+UUID=36c7aff8-081d-45f7-8015-4d62e2d69969
+WSPATH=/ger
 PORT=80
 
 
